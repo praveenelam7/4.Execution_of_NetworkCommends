@@ -70,31 +70,35 @@ while True:
 c.close() 
 ```
 ## Output
-CLIENT
+
+``
+## CLIENT
 ![alt text](<Screenshot 2026-03-10 211554.png>)
 
 
-SERVER
+## SERVER
 ![alt text](<Screenshot 2026-03-10 211608.png>)
 
 
-TRACEROUTE
+## TRACEROUTE
 ![alt text](<Screenshot 2026-03-12 181700.png>)
 
 
-IPCONFIG
+## IPCONFIG
 ![alt text](<Screenshot 2026-03-12 181946.png>)
 
 
-NSLOOKUP
+## NSLOOKUP
 ![alt text](<Screenshot 2026-03-12 182016.png>)
 
 
-NETSTAT
+## NETSTAT
 ![alt text](<Screenshot 2026-03-12 182109.png>)
 
 
-TCP DUMP
+## TCP DUMP
 ![alt text](TCPDUMP[CN].jpeg)
+
+``
 ## Result
 Thus Execution of Network commands Performed 
