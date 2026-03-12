@@ -71,7 +71,7 @@ c.close()
 ```
 ## Output
 
-``
+
 ## CLIENT
 ![alt text](<Screenshot 2026-03-10 211554.png>)
 
@@ -99,6 +99,6 @@ c.close()
 ## TCP DUMP
 ![alt text](TCPDUMP[CN].jpeg)
 
-``
+
 ## Result
 Thus Execution of Network commands Performed 
