@@ -72,16 +72,28 @@ c.close()
 ## Output
 CLIENT
 ![alt text](<Screenshot 2026-03-10 211554.png>)
+
+
 SERVER
 ![alt text](<Screenshot 2026-03-10 211608.png>)
+
+
 TRACEROUTE
 ![alt text](<Screenshot 2026-03-12 181700.png>)
+
+
 IPCONFIG
 ![alt text](<Screenshot 2026-03-12 181946.png>)
+
+
 NSLOOKUP
 ![alt text](<Screenshot 2026-03-12 182016.png>)
+
+
 NETSTAT
 ![alt text](<Screenshot 2026-03-12 182109.png>)
+
+
 TCP DUMP
 ![alt text](TCPDUMP[CN].jpeg)
 ## Result
